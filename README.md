@@ -8,7 +8,7 @@
 <a href="https://github.com/rawho">
   <img align="left" alt="rahul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://wa.me/9747406685">
+<a href="https://wa.me/+919747406685">
   <img align="left" alt="Rahul's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a href="https://instagram.com/_.rahu.l._">
