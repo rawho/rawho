@@ -1,5 +1,6 @@
-### Hi there, I'm Rahul T, 
-Check out my website: [rahulmanoj.xyz](https://rahulmanoj.xyz)👋
+### Hi there, I'm Rahul T[rahulmanoj.xyz](https://rahulmanoj.xyz)👋
+
+
 [![Website](https://img.shields.io/website?label=rahulmanoj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulmanoj.xyz)
 
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
