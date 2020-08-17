@@ -29,7 +29,7 @@
 - ⚡ Fun fact: I love to play Volleyball and Cricket
 
 
-[![Linkedin: rahulmanojcet](https://img.shields.io/badge/-rahulmanojcet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulmanojcet/)](https://www.linkedin.com/in/rahulmanojcet/)
+[![Linkedin: rahulmanojcet](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulmanojcet/)](https://www.linkedin.com/in/rahulmanojcet/)
 [![GitHub rawho](https://img.shields.io/github/followers/rawho?label=follow&style=social)](https://github.com/rawho)
 [![website](https://img.shields.io/badge/PortfolioWebsite-rahulmanoj.xyz-2648ff?style=flat-square&logo=google-chrome)](https://rahulmanoj.xyz)
 
