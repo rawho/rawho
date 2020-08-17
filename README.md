@@ -18,9 +18,6 @@
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br/>
-<br/>
-
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
 
 - 🔭 I’m currently working on a [Bitflip Website](https://rawho.github.io)
