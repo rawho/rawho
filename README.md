@@ -17,7 +17,7 @@
 [<img align="left" alt="rahulmanoj.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rahulmanoj.xyz)
 [<img align="left" alt="@rahulmanojcet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/rahulmanojcet)
 [<img align="left" alt="Rahul T | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulmanojcet/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_.rahu.l._)
+[<img align="left" alt="@_.rahu.l._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_.rahu.l._)
 
 <br />
 <br />
