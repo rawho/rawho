@@ -46,6 +46,11 @@
 </a>
 
 
+## Favorites
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=assBOT&theme=tokyonight)](https://github.com/rawho/assBOT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=flipkart-scraper&theme=dark)](https://github.com/rawho/flipkart-scraper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=linkedin-autofollow&theme=dark)](https://github.com/rawho/linkedin-autofollow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=rawho.github.io&theme=tokyonight)](https://github.com/rawho/rawho.github.io) 
 
 
