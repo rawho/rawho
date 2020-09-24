@@ -58,12 +58,12 @@
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 15 September, 2020 - 22 September, 2020
+Week: 16 September, 2020 - 23 September, 2020
 
-JavaScript   4 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.68 % 
-Markdown     3 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.45 % 
-HTML         2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
-C            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript   5 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   41.87 % 
+Markdown     3 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
+HTML         2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
+C            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
