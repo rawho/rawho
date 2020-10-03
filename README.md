@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawho&label=Views&color=blue&style=plastic" alt="rawho" /> </p>
 
 
-<br>
-<br>
+
 
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
 
