@@ -48,6 +48,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawho&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
 </a>
 
+<br><br>
 
 <img src="https://github.com/rawho/rawho/blob/master/trending.png?raw=true">
 
