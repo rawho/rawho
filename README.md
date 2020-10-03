@@ -1,8 +1,28 @@
-### Hi there, I'm  [Rahul T !](https://rahulmanoj.xyz) 👋
 
-![rahul t](pro-main.png)
+
+![rahul t](assets/banner.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawho&label=Views&color=blue&style=plastic" alt="rawho" /> </p>
+
+
+<br>
+<br>
+
+## I'm a Student at College Of Engineering, Trivandrum. 💪 
+
+- 🔭 I’m currently working on a [Larkcs](https://larkcs.com), **CETRoots**
+- 🔭 Developed Websites: [bitflip](https://bit-flip.tech), [soacet](https://soacet.in)
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play Volleyball and Cricket
+
+
+![website-follow](assets/website.gif)
+
+<a href="https://rahulmanoj.xyz/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahulmanoj.xyz-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+
+
+![social-links-title](assets/connect.png)
 
 <a href="https://linkedin.com/in/rahulmanojcet">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,37 +40,19 @@
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br>
-<br>
+<br><br>
 
-## I'm a Student at College Of Engineering, Trivandrum. 💪 
-
-- 🔭 I’m currently working on a [Larkcs](https://larkcs.com), **CETRoots**
-- 🔭 Developed Websites: [bitflip](https://bit-flip.tech), [soacet](https://soacet.in)
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Volleyball and Cricket
-
-
-[![Linkedin: rahulmanojcet](https://img.shields.io/badge/-rahulmanojcet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulmanojcet/)](https://www.linkedin.com/in/rahulmanojcet/)
-[![GitHub rawho](https://img.shields.io/github/followers/rawho?label=follow&style=social)](https://github.com/rawho)
-[![website](https://img.shields.io/badge/Website-rahulmanoj.xyz-2648ff?style=flat-square&logo=google-chrome)](https://rahulmanoj.xyz)
-
-<br>
-
-
----
+![github-stats](assets/github-stats.png)
 
 <a href="https://github.com/rawho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawho&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawho&&hide_langs_below=1&text_color=fff&bg_color=000&title_color=82B3F4&icon_color=4572FA" />
 </a>
 <a href="https://github.com/rawho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawho&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawho&show_icons=true&&line_height=27&text_color=fff&bg_color=000&title_color=82B3F4&icon_color=4572FA" alt="Rahul's github stats"/>
 </a>
 
 <br><br>
-
-<img src="https://github.com/rawho/rawho/blob/master/trending.png?raw=true">
+<img src="assets/trending-repos.png">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=assBOT&theme=tokyonight)](https://github.com/rawho/assBOT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=flipkart-scraper&theme=dark)](https://github.com/rawho/flipkart-scraper)
