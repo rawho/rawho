@@ -62,12 +62,12 @@
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-Python       3 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
-JavaScript   3 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 % 
-HTML         3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 % 
-Markdown     2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 % 
-CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Python       6 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.63 % 
+JavaScript   5 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 % 
+HTML         2 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Markdown     1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 <!--END_SECTION:waka-->
