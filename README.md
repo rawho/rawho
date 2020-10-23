@@ -43,12 +43,8 @@
 
 ![github-stats](assets/github-stats.png)
 
-<a href="https://github.com/rawho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawho&&hide_langs_below=1&text_color=fff&bg_color=000&title_color=82B3F4&icon_color=4572FA" />
-</a>
-<a href="https://github.com/rawho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawho&show_icons=true&&line_height=27&text_color=fff&bg_color=000&title_color=82B3F4&icon_color=4572FA" alt="Rahul's github stats"/>
-</a>
+[![](https://raw.githubusercontent.com/rawho/rawho/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <br><br>
 <img src="assets/trending-repos.png">
