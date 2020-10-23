@@ -10,10 +10,8 @@
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
 
 - 🔭 I’m currently working on a [Larkcs](https://larkcs.com), **CETRoots**
-- 🔭 Developed Websites: [sreevaikha Doors](https://www.sreevaikhadoors.com), [bitflip](https://bit-flip.tech), [soacet](https://soacet.in)
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Volleyball and Cricket
+-  Developed Websites: [sreevaikha Doors](https://www.sreevaikhadoors.com), [bitflip](https://bit-flip.tech), [soacet](https://soacet.in)
+- Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
 ![website-follow](assets/website.gif)
