@@ -15,6 +15,7 @@
     - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soacet)
     - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
     - [Personal Website](https://rahulmanoj.xyz) (Jekyll) - [source code](https://github.com/rawho-portfolio/rawho-portfolio.github.io)
+    - [CET Magazine](https://cetmagazine.ml) - [source code](https://https://github.com/rawho/CET-Magazine-website)
 - Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
