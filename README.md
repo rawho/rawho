@@ -9,8 +9,10 @@
 
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
 
-- 🔭 I’m currently working on a [Larkcs](https://larkcs.com), **CETRoots**
--  Developed Websites: [sreevaikha Doors](https://www.sreevaikhadoors.com), [bitflip](https://bit-flip.tech), [soacet](https://soacet.in)
+-  Developed Websites: 
+    - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django)
+    - [bitflip](https://bit-flip.tech) (Jekyll)
+    - [soacet](https://soacet.in) (Django)
 - Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
