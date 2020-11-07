@@ -16,6 +16,7 @@
     - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
     - [Personal Website](https://rahulmanoj.xyz) (Jekyll) - [source code](https://github.com/rawho-portfolio/rawho-portfolio.github.io)
     - [CET Magazine](https://cetmagazine.ml) - [source code](https://https://github.com/rawho/CET-Magazine-website)
+    - [Madly Yummy](https://rahulmanoj.xyz/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
 - Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
@@ -29,16 +30,19 @@
 <a href="https://linkedin.com/in/rahulmanojcet">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</a>
+
 <a href="https://wa.me/+919747406685">
   <img align="left" alt="Rahul's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="https://instagram.com/rahulmanojcet">
+
+<a href="https://instagram.com/_rawho">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a href="https://www.facebook.com/rahulmanojcet/">
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 <a href="https://www.twitter.com/rahulmanojcet/">
   <img align="left" alt="Rahul's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
