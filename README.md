@@ -12,7 +12,7 @@
 -  Developed Websites: 
     - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
-    - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soacet)
+    - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
     - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
     - [Personal Website](https://rahulmanoj.xyz) (Jekyll) - [source code](https://github.com/rawho-portfolio/rawho-portfolio.github.io)
     - [CET Magazine](https://cetmagazine.ml) - [source code](https://github.com/rawho/CET-Magazine-website)
