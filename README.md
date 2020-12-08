@@ -20,7 +20,7 @@
 - Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
-![website-follow](assets/website.gif)
+![website-follow](assets/Visit%20My%20Website.svg)
 
 <a href="https://rahulmanoj.xyz/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahulmanoj.xyz-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
