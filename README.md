@@ -27,7 +27,7 @@
 ![social-links-title](assets/connect.png)
 
 <a href="https://linkedin.com/in/rahulmanojcet">
-  <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="color: #0077B5" align="left" alt="Rahul's Linkdein" width="22px" src="/assets/linkedin.svg" />
 </a>
 </a>
 <a href="https://wa.me/+919747406685">
