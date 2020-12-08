@@ -25,7 +25,7 @@
 <a href="https://rahulmanoj.xyz/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahulmanoj.xyz-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
-![social-links-title](assets/Connect_With_Me.svg)
+![social-links-title](assets/Connect%20With%20Me.svg)
 
 <a href="https://linkedin.com/in/rahulmanojcet">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="assets/linkedin.svg" />
