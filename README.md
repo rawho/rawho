@@ -12,10 +12,11 @@
 -  Developed Websites: 
     - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
-    - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soacet)
+    - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
     - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
     - [Personal Website](https://rahulmanoj.xyz) (Jekyll) - [source code](https://github.com/rawho-portfolio/rawho-portfolio.github.io)
-    - [CET Magazine](https://cetmagazine.ml) - [source code](https://https://github.com/rawho/CET-Magazine-website)
+    - [CET Magazine](https://cetmagazine.ml) - [source code](https://github.com/rawho/CET-Magazine-website)
+    - [Madly Yummy](https://rahulmanoj.xyz/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
 - Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
 
 
@@ -29,16 +30,19 @@
 <a href="https://linkedin.com/in/rahulmanojcet">
   <img style="color: #0077B5" align="left" alt="Rahul's Linkdein" width="22px" src="/assets/linkedin.svg" />
 </a>
-</a>
+
 <a href="https://wa.me/+919747406685">
   <img align="left" alt="Rahul's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="https://instagram.com/rahulmanojcet">
+
+<a href="https://instagram.com/_rawho">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a href="https://www.facebook.com/rahulmanojcet/">
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 <a href="https://www.twitter.com/rahulmanojcet/">
   <img align="left" alt="Rahul's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -63,12 +67,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 30 November, 2020 - 07 December, 2020
 
-HTML       3 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.81 % 
-CSS        3 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   35.60 % 
-Bash       1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Markdown   46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Solidity   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+SCSS         2 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.06 % 
+JavaScript   2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+HTML         2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
+CSS          44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
