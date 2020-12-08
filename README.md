@@ -48,7 +48,7 @@
 </a>
 <br><br>
 
-![github-stats](assets/github-stats.png)
+![github-stats](assets/Github%20Stats.svg)
 
 ![](https://raw.githubusercontent.com/rawho/rawho/master/profile-summary-card-output/monokai/0-profile-details.svg)
 
