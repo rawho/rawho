@@ -56,7 +56,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 
 
 <br><br>
-<img src="assets/trending-repos.png">
+<img src="assets/TrendingRepos.svg">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=assBOT&theme=tokyonight)](https://github.com/rawho/assBOT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rawho&repo=flipkart-scraper&theme=dark)](https://github.com/rawho/flipkart-scraper)
