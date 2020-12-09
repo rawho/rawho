@@ -67,12 +67,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-SCSS         2 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.06 % 
-JavaScript   2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-HTML         2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
-CSS          44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+HTML       3 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.13 % 
+SCSS       2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.68 % 
+Python     2 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.86 % 
+CSS        55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
