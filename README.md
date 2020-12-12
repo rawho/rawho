@@ -67,7 +67,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2020 - 10 December, 2020
+Week: 04 December, 2020 - 11 December, 2020
 
 Python     2 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.30 % 
 HTML       1 hr 39 mins    ████████░░░░░░░░░░░░░░░░░   32.51 % 
