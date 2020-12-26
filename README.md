@@ -67,10 +67,6 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
-
-HTML     1 hr            ████████████▓░░░░░░░░░░░░   50.91 % 
-Python   51 mins         ██████████▓░░░░░░░░░░░░░░   43.04 % 
-PHP      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
