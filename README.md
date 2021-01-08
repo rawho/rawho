@@ -67,7 +67,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 Java   37 mins         ████████████████████▓░░░░   83.22 % 
 C      7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
