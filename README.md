@@ -67,7 +67,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
+Week: 20 January, 2021 - 27 January, 2021
 
 Markdown   2 hrs 33 mins   █████████████████████▓░░░   86.93 % 
 HTML       18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
