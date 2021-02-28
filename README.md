@@ -67,11 +67,9 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
-Java   3 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.84 % 
-C      3 hrs 46 mins   ████████████░░░░░░░░░░░░░   47.39 % 
-HTML   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Text   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C      3 hrs 46 mins   ██████████████░░░░░░░░░░░   55.77 % 
+Java   2 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.15 % 
 ```
 <!--END_SECTION:waka-->
