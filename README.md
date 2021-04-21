@@ -10,6 +10,7 @@
 ## I'm a Student at College Of Engineering, Trivandrum. 💪 
 
 -  Developed Websites: 
+    - [IEEE SB CET](http://ieee.cet.ac.in) (JEKYLL) - Private
     - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
     - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
