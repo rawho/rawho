@@ -16,15 +16,15 @@
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
     - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
     - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
-    - [Personal Website](https://rahulmanoj.xyz) (Jekyll) - [source code](https://github.com/rawho-portfolio/rawho-portfolio.github.io)
+    - [Personal Website](https://rahult.in) (Gatsby) - [source code](https://github.com/rawho/rawho.github.io)
     - [CET Magazine](https://cetmagazine.ml) - [source code](https://github.com/rawho/CET-Magazine-website)
-    - [Madly Yummy](https://rahulmanoj.xyz/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
-- Read my blogs at [Rahul blogs](https://rahulmanoj.xyz/blogs)
+    - [Madly Yummy](https://rahult.in/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
+- Read my blogs at [Rahul blogs](https://rahult.in/blogs)
 
 
 ![website-follow](assets/VisitMyWebsite.svg)
 
-<a href="https://rahulmanoj.xyz/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahulmanoj.xyz-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://rahult.in/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahult.in-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
 ![social-links-title](assets/Connect%20With%20Me.svg)
