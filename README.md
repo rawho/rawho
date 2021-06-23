@@ -29,7 +29,7 @@
 
 ![social-links-title](assets/Connect%20With%20Me.svg)
 
-<a href="https://linkedin.com/in/rahulmanojcet">
+<a href="https://linkedin.com/in/rahulmanojt">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="assets/linkedin.svg" />
 </a>
 
@@ -41,11 +41,11 @@
   <img align="left" alt="Rahul's Instagram" width="22px" src="assets/instagram.svg" />
 </a>
 
-<a href="https://www.facebook.com/rahulmanojcet/">
+<a href="https://www.facebook.com/rahulmanojt/">
   <img align="left" alt="Rahul's Facebook" width="22px" src="assets/facebook.svg" />
 </a>
 
-<a href="https://www.twitter.com/rahulmanojcet/">
+<a href="https://www.twitter.com/rahulmanojt/">
   <img align="left" alt="Rahul's twitter" width="22px" src="assets/twitter.svg" />
 </a>
 <br><br>
