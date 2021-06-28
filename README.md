@@ -15,7 +15,7 @@
     - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
     - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
-    - [githubstats](https://githubstats.xyz) (Django) - [source code](https://github.com/rawho/githubstats)
+    - [githubstats](https://github-developer-stats.herokuapp.com/) (Django) - [source code](https://github.com/rawho/githubstats)
     - [Personal Website](https://rahult.in) (Gatsby) - [source code](https://github.com/rawho/rawho.github.io)
     - [CET Magazine](https://cetmagazine.ml) - [source code](https://github.com/rawho/CET-Magazine-website)
     - [Madly Yummy](https://rahult.in/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
