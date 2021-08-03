@@ -69,7 +69,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
 JavaScript   3 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.55 % 
 SCSS         1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
