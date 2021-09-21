@@ -69,12 +69,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-JavaScript   6 hrs 8 mins    ███████████████▓░░░░░░░░░   62.95 % 
-SCSS         1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JavaScript   8 hrs 17 mins   █████████████████░░░░░░░░   68.44 % 
+SCSS         1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Other        37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 <!--END_SECTION:waka-->
