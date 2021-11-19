@@ -69,8 +69,6 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
