@@ -69,7 +69,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 JavaScript   4 hrs 49 mins   ████████████████████▒░░░░   81.55 % 
 Other        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
