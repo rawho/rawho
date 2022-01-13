@@ -69,7 +69,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
 JavaScript   2 hrs 42 mins   ████████████████████████▓   98.30 % 
 CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
