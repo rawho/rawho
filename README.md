@@ -69,12 +69,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 ### My weekly outbreak
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
-JavaScript   4 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.89 % 
-SCSS         3 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.72 % 
-CSS          1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JSON         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JavaScript   3 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   38.57 % 
+SCSS         2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+CSS          1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
+HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+JSON         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
 <!--END_SECTION:waka-->
