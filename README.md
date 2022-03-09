@@ -70,7 +70,11 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 March 2022 - To: 08 March 2022
+
+Text   23 mins         █████████████████████░░░░   84.63 %
+C      4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Perl   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
