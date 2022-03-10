@@ -70,11 +70,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-Text   23 mins         █████████████████████░░░░   84.63 %
-C      4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Perl   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Assembly   23 mins         ███████████▓░░░░░░░░░░░░░   46.20 %
+Text       23 mins         ███████████▒░░░░░░░░░░░░░   45.53 %
+C          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Perl       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
