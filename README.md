@@ -70,10 +70,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
-
-Text    13 mins         ████████████████████████▓   98.40 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
