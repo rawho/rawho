@@ -6,8 +6,30 @@
 
 
 
+<h1 align="center">
+RAHUL T
+</h1>
 
-## I'm a Student at College Of Engineering, Trivandrum. 💪 
+
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rahulmanojt">
+  <img alt="Rahul's Linkdein" width="22px" src="assets/linkedin.svg" />
+</a>
+&ensp;
+<a href="https://wa.me/+919747406685">
+  <img alt="Rahul's Whatsapp" width="22px" src="assets/whatsapp.svg" />
+</a>
+&ensp;
+<a href="https://rahult.in/"><img height="26px" src="https://img.shields.io/badge/rahult.in-2e2bad?style=for-the-badge&logo=google%20chrome&logoColor=yellow"/></a>
+&ensp;
+<a href="mailto:rahulmanoj@cet.ac.in"><img height="26px" src="https://img.shields.io/badge/rahulmanoj@cet.ac.in-37367a?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+
+</p>
+
+---
+
 
 -  Developed Websites: 
     - [Impulse](https://impulsecet.in) (JEKYLL) - [source code](https://github.com/impulsecet/impulsecet.github.io)
@@ -22,33 +44,10 @@
 - Read my blogs at [Rahul blogs](https://rahult.in/blogs)
 
 
-![website-follow](assets/VisitMyWebsite.svg)
-
-<a href="https://rahult.in/"><img height="35px" src="https://img.shields.io/badge/My%20Website:%20rahult.in-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
-![social-links-title](assets/Connect%20With%20Me.svg)
 
-<a href="https://linkedin.com/in/rahulmanojt">
-  <img align="left" alt="Rahul's Linkdein" width="22px" src="assets/linkedin.svg" />
-</a>
 
-<a href="https://wa.me/+919747406685">
-  <img align="left" alt="Rahul's Whatsapp" width="22px" src="assets/whatsapp.svg" />
-</a>
-
-<!-- <a href="https://instagram.com/_rawho">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="assets/instagram.svg" />
-</a> -->
-
-<!-- <a href="https://www.facebook.com/rahulmanojt/">
-  <img align="left" alt="Rahul's Facebook" width="22px" src="assets/facebook.svg" />
-</a> -->
-
-<!-- <a href="https://www.twitter.com/rahulmanojt/">
-  <img align="left" alt="Rahul's twitter" width="22px" src="assets/twitter.svg" />
-</a> -->
-<br><br>
 
 ![github-stats](assets/Github%20Stats.svg)
 
