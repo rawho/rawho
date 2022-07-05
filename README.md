@@ -1,6 +1,6 @@
 
 
-![rahul t](assets/banner.gif)
+<!-- ![rahul t](assets/banner.gif) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawho&label=Views&color=blue&style=plastic" alt="rawho" /> </p>
 
@@ -37,17 +37,17 @@
   <img align="left" alt="Rahul's Whatsapp" width="22px" src="assets/whatsapp.svg" />
 </a>
 
-<a href="https://instagram.com/_rawho">
+<!-- <a href="https://instagram.com/_rawho">
   <img align="left" alt="Rahul's Instagram" width="22px" src="assets/instagram.svg" />
-</a>
+</a> -->
 
-<a href="https://www.facebook.com/rahulmanojt/">
+<!-- <a href="https://www.facebook.com/rahulmanojt/">
   <img align="left" alt="Rahul's Facebook" width="22px" src="assets/facebook.svg" />
-</a>
+</a> -->
 
-<a href="https://www.twitter.com/rahulmanojt/">
+<!-- <a href="https://www.twitter.com/rahulmanojt/">
   <img align="left" alt="Rahul's twitter" width="22px" src="assets/twitter.svg" />
-</a>
+</a> -->
 <br><br>
 
 ![github-stats](assets/Github%20Stats.svg)
