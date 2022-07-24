@@ -69,12 +69,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 July 2022 - To: 22 July 2022
+From: 16 July 2022 - To: 23 July 2022
 
-JavaScript   46 mins         ████████████▓░░░░░░░░░░░░   51.10 %
-SCSS         32 mins         █████████░░░░░░░░░░░░░░░░   36.08 %
-JSON         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JavaScript   7 hrs 10 mins   ██████████████████████▒░░   88.89 %
+JSON         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
