@@ -69,10 +69,10 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
-C++   54 mins         ███████████████████████▓░   94.88 %
-C     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+C++   1 hr 9 mins     ████████████████████████░   95.91 %
+C     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
