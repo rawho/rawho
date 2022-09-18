@@ -69,10 +69,14 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-Tcl    11 mins         ███████████████████████▒░   93.72 %
-Bash   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Python   56 mins         ███████████████████▓░░░░░   78.87 %
+Tcl      11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+CMake    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
