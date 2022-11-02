@@ -69,10 +69,7 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
-
-JavaScript   17 mins         █████████████████░░░░░░░░   68.13 %
-Python       8 mins          ████████░░░░░░░░░░░░░░░░░   31.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
