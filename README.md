@@ -69,14 +69,14 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-JavaScript   30 hrs 47 mins  ███████████████████▒░░░░░   77.25 %
-Python       3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-SCSS         2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Text         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-CSS          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript   37 hrs 32 mins  ████████████████████▓░░░░   82.63 %
+SCSS         3 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Text         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Python       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
