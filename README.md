@@ -69,14 +69,14 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
-JavaScript   15 hrs 30 mins  ███████████████░░░░░░░░░░   60.03 %
-SCSS         8 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.08 %
-Astro        1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   18 hrs 24 mins  ███████████████▓░░░░░░░░░   62.89 %
+SCSS         8 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.14 %
+Astro        1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
