@@ -69,14 +69,13 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2023 - To: 14 March 2023
+From: 08 March 2023 - To: 15 March 2023
 
-JavaScript   22 hrs 27 mins  ████████████████▓░░░░░░░░   66.87 %
-TypeScript   8 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-SCSS         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Docker       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   24 hrs 47 mins  ███████████████▒░░░░░░░░░   61.52 %
+TypeScript   11 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+SCSS         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Docker       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
