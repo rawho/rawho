@@ -69,14 +69,14 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-JavaScript   6 hrs 15 mins   █████████████░░░░░░░░░░░░   51.94 %
-SCSS         3 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-Java         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Bash         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript    6 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.37 %
+SCSS          3 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   31.98 %
+Bash          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JSON          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+HTML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
