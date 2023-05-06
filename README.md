@@ -69,13 +69,13 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
-Python       7 hrs 22 mins   ███████████████░░░░░░░░░░   60.65 %
-JavaScript   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-YAML         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Text         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Python       4 hrs 44 mins   ██████████████░░░░░░░░░░░   56.05 %
+YAML         53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Text         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+JavaScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Other        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
