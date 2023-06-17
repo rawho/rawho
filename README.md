@@ -69,9 +69,12 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-No activity tracked
+JavaScript   1 hr 39 mins    ████████████████████████░   95.59 %
+SCSS         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
