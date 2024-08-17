@@ -34,14 +34,13 @@ RAHUL T
 -  Developed Websites: 
     - [Impulse](https://impulsecet.github.io/) (JEKYLL) - [source code](https://github.com/impulsecet/impulsecet.github.io)
     - [IEEE SB CET](http://ieee.cet.ac.in) (JEKYLL) - Private
-    - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
-    - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
-    - [soacet](https://soacet.in) (Django) - [source code](https://github.com/rawho/soa-cet)
-    - [githubstats](https://github-developer-stats.herokuapp.com/) (Django) - [source code](https://github.com/rawho/githubstats)
-    - [Personal Website](https://rahult.in) (Gatsby) - [source code](https://github.com/rawho/rawho.github.io)
-    - [CET Magazine](https://cetmagazine.ml) - [source code](https://github.com/rawho/CET-Magazine-website)
-    - [Madly Yummy](https://rahult.in/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
-- Read my blogs at [Rahul blogs](https://rahult.in/blogs)
+    - bitflip (Jekyll) - [source code](https://github.com/rawho/bitflip)
+    - soacet (Django) - [source code](https://github.com/rawho/soa-cet)
+    - githubstats (Django) - [source code](https://github.com/rawho/githubstats)
+    - [Personal Website](https://rahulmanoj.in) (Gatsby) - [source code](https://github.com/rawho/rawho.github.io)
+    - [CET Magazine](https://rahulmanoj.in/CET-Magazine-website/) - [source code](https://github.com/rawho/CET-Magazine-website)
+    - [Madly Yummy](https://rahulmanoj.in/madly_yummy) - [source code](https://github.com/rawho/madly_yummy)
+- Read my blogs at [Rahul blogs](https://rahulmanoj.in/blogs)
 
 
 
