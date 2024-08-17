@@ -32,7 +32,7 @@ RAHUL T
 
 
 -  Developed Websites: 
-    - [Impulse](https://impulsecet.in) (JEKYLL) - [source code](https://github.com/impulsecet/impulsecet.github.io)
+    - [Impulse](https://impulsecet.github.io/) (JEKYLL) - [source code](https://github.com/impulsecet/impulsecet.github.io)
     - [IEEE SB CET](http://ieee.cet.ac.in) (JEKYLL) - Private
     - [sreevaikha Doors](https://www.sreevaikhadoors.com) (Django) - Private
     - [bitflip](https://bit-flip.tech) (Jekyll) - [source code](https://github.com/rawho/rawho.github.io)
