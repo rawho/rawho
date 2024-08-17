@@ -22,7 +22,7 @@ RAHUL T
   <img alt="Rahul's Whatsapp" width="22px" src="assets/whatsapp.svg" />
 </a>
 &ensp;
-<a href="https://rahult.in/"><img height="26px" src="https://img.shields.io/badge/rahult.in-2e2bad?style=for-the-badge&logo=google%20chrome&logoColor=yellow"/></a>
+<a href="https://rahulmanoj.in/"><img height="26px" src="https://img.shields.io/badge/rahulmanoj.in-2e2bad?style=for-the-badge&logo=google%20chrome&logoColor=yellow"/></a>
 &ensp;
 <a href="mailto:rahulmanojcoder@gmail.com"><img height="26px" src="https://img.shields.io/badge/rahulmanojcoder@gmail.com-37367a?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
