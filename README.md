@@ -68,13 +68,9 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-JavaScript   31 mins         ████████████████░░░░░░░░░   64.02 %
-JSON         14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
