@@ -68,10 +68,11 @@ Note: github stats generated using this [template](https://github.com/vn7n24fzkq
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Python   23 mins         █████████████████████▒░░░   84.82 %
-HTML     4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+HTML     56 mins         ███████████████▓░░░░░░░░░   63.01 %
+Python   23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+CSS      9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
 ```
 
 <!--END_SECTION:waka-->
